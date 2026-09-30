@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LLM Gateway
 
 [![CI](https://github.com/Shamratha/LLM-GATEWAY/actions/workflows/ci.yml/badge.svg)](https://github.com/Shamratha/LLM-GATEWAY/actions/workflows/ci.yml)
@@ -375,3 +376,6 @@ OpenTelemetry · Docker Compose.
   `hmac.compare_digest` and the team lookup scans all teams without
   short-circuiting, so a valid key can't be recovered byte-by-byte via response
   timing.
+=======
+# llm-gateway
+>>>>>>> a4b7954f70850c3dade4d1518d8f1a0dc28ce5ba
